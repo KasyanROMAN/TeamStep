@@ -1,5 +1,6 @@
-print(12)
-print(12)
+def kaka():
+    print('Hello kaka')
+kaka()
 
 
 
