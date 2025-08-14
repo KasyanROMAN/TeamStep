@@ -1,0 +1,27 @@
+/* 
+h1{
+    color: blue;
+} */
+/* 
+.data{
+    color: aquamarine;
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+} */
+
+
+.check{
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    border-top: 40px solid blue;
+    border-left: 10px solid yellow;
+    border-right: 15px solid blueviolet;
+    border-bottom: 60px solid red;
+}
