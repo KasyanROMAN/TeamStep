@@ -1,4 +1,4 @@
-print('Python')
-print('Roma')
+print('Hello')
 
-print('JS')
+print(12)
+print('World')
