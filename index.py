@@ -1,3 +1,1 @@
-
-print('World')
-print(12)
+print('Hello')
